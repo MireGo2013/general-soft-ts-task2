@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAA;AACA","sources":["webpack://my-webpack-project/./src/index.ts"],"sourcesContent":["var a = 'dwadwadaw';\nconsole.log(2);\n"],"names":[],"sourceRoot":""}
